@@ -1,2 +1,6 @@
 *.class
 .vscode/
+*.docx
+*.enl
+*.Data/
+~$*
